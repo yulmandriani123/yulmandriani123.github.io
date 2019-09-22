@@ -1,0 +1,104 @@
+/* Start Body */
+body {
+    background-color: wheat;
+    color: blue;
+    font-family: 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 25px;
+    line-height: 1,5em;
+    margin: 10px;
+    padding: 20px;
+}
+h1.judul {
+    color: red;
+}    
+h3.judul {
+    color: black     
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-royalblue {
+    background-color: palevioletred;
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}    
+/* End Container */
+
+/* Start Logo */
+.logo{
+     text-align: center;
+}
+/* End Logo */
+
+/* Start Anchor / Hyperlink */
+a:link,
+a:visited {
+    color:  #003366;
+    text-decoration: underline;
+}
+a:hover,
+a:active {
+
+}
+/* Endhor Anchor / Hyperlink */
+
+
+/* Star Menu Primer */
+.menu-primer ul {
+    background-color: #333333;
+    border-radius: 4px;
+    box-shadow:
+        0 3px 5px -1px rgba(0, 0, 0, 2),
+        0 6px 18px 0 rgba(0, 0, 0, 14),
+        0 1px 18px 0 rgb(0, 0, 12);
+}
+.menu-primer li {
+    border-right: 1px solid #d1d5da;
+    display: inline-block;
+}
+.menu-primer a {
+    color: #ffffff;
+    font-size: 13px;
+    display: inline-block;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: #f7f7f7;
+    color: black;
+    text-decoration: none;    
+}
+.menu-primer .active {
+    background-color: #f7f7f7;
+    color: black;
+    text-decoration: none;    
+}
+/* End Menu Primer */
+    
+/* Start Anchor / Hyperlink */
+a:link,
+a:visited {
+    color:  #003366;
+    text-decoration: underline;
+}
+a:hover,
+a:active {
+
+}
+/* Endhor Anchor / Hyperlink */
+
